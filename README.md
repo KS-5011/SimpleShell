@@ -1,4 +1,4 @@
-# SimpleShell-
+# SimpleShell
 
 * Step1: Download this repo
 * Step2: open your terminal and download gcc
